@@ -6,6 +6,10 @@ Help Desk Tickets (Mendeley Data)
 ## Why this dataset
 This project analyzes real-world helpdesk ticket data to evaluate support performance, identify operational bottlenecks, and inform retention risk signals.
 
+## Source
+Help Desk Tickets dataset (Mendeley Data). License: CC BY 4.0.  
+Link: <https://data.mendeley.com/datasets/btm76zndnt/2>
+
 ## Files used
 - issues.csv
 - issues_change_history.csv
