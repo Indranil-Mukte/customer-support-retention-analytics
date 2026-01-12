@@ -1,4 +1,4 @@
-# Exploratory Data Analysis — Key Findings
+# Exploratory Data Analysis - Key Findings
 
 ## Overall Support Performance
 - Among resolved tickets, the overall SLA breach rate is **~73%**, indicating significant opportunities to improve support efficiency.
