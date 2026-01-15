@@ -69,7 +69,7 @@ The Power BI dashboard provides a one-page operational view for support managers
 Detailed recommendations are documented in `docs/05_recommendations.md`.
 
 ---
-
+```text
 ## Repository Structure
 customer-support-retention-analytics/
 ├── README.md
@@ -92,7 +92,7 @@ customer-support-retention-analytics/
 │ └── figures/
 └── bi/
 └── customer_support_dashboard.pbix
-
+```
 ---
 
 ## Outcome
